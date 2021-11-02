@@ -1,2 +1,7 @@
 # ContiRemove
-A program that will detect when a file in a directory is changed and will move it to the target directory
+## Running it
+* [navigate to installation folder]
+* cd bin
+* java ContiRemove
+## Example
+ If folder x is selected as the directory and the folder y is selected as the target directory then after enter is pressed, every change in the directory(your settings can change this) will be moved to the target directory
