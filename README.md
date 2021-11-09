@@ -20,7 +20,7 @@
 * [source directory] [target directory]
 * [selected files with there full paths seperated by commas, no spaces.]
 * ------END OF FILE CONTENT------
-#uses
+# Uses
 ## Example
  If folder x is selected as the directory and the folder y is selected as the target directory then after enter is pressed, every change in the directory(your settings can change this) will be moved to the target directory
 ## Compatibility
