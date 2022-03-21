@@ -8,8 +8,7 @@
 ## Using the configuration builder
 * [navigate to installation folder]
 * cd bin
-* cd util
-* java MakeConfig
+* java util.MakeConfig
 ### Using the result file in ContiRemove
 * [navigate to installation folder]
 * cd bin
